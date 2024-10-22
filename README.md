@@ -27,7 +27,7 @@ o	Thalassemia and CVD
 11.	Future Work
 ________________________________________
 Dataset Overview
-The dataset consists of medical records for patients, including attributes such as age, gender, cholesterol levels, resting blood pressure, and whether the patient has had a heart attack (CVD). This data will help us understand the factors that are strongly associated with heart diseases.
+The dataset consists of medical records for patients, including attributes such as age, gender, Resting Blood Pressure, sereum cholesterol, fasting blood sugar, resting electrocardiographic result (>120 mg then 1 orelse 0) , thalach (Maximum heart rate achived), exang (exercise induced angina , yes =1 no=0), oldpeak (ST depresion induced by exercise related rate), ca (Nymber of major vessels 0-3), thal (3-normal, 6-fixed dffect,7- recversible defect,  and whether the patient has had a heart attack (CVD). This data will help us understand the factors that are strongly associated with heart diseases.
 •	Target Variable: Presence of CVD (binary: 1 = Yes, 0 = No)
 •	Key Features: Age, Gender, Cholesterol, Resting Blood Pressure, Max Heart Rate, Exercise, Thalassemia, etc.
 ________________________________________
